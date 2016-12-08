@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fixed-rss on Patrick Yates</title>
+    <link>http://www.patrickyates.me/fixed/index.xml</link>
+    <description>Recent content in Fixed-rss on Patrick Yates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Fri, 09 Dec 2016 00:01:17 +1100</lastBuildDate>
+    <atom:link href="http://www.patrickyates.me/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Research</title>
+      <link>http://www.patrickyates.me/research/</link>
+      <pubDate>Fri, 09 Dec 2016 00:01:17 +1100</pubDate>
+      
+      <guid>http://www.patrickyates.me/research/</guid>
+      <description>&lt;p&gt;My research interests are in Astrophysics.
+My honours project involved developing a method for running numerical simulations of restarting radio jets from Active Galactic Nuclei (AGN).
+The results from these simulations were analysed to determine how recurrent jet activity affected both the energetics and dynamics of the radio jets.&lt;/p&gt;
+
+&lt;p&gt;A draft copy of my Honours thesis is available for download here: &lt;a href=&#34;http://www.patrickyates.me/download/honours-thesis.pdf&#34;&gt;honours-thesis.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A poster that I presented at the &lt;strong&gt;conference name here&lt;/strong&gt; conference is available for download here: &lt;strong&gt;add link in here&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;From the numerical simulations I was able to create several movies illustrating the restarting nature of the jet, a selection of which are shown below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.patrickyates.me/projects/</link>
+      <pubDate>Fri, 09 Dec 2016 00:01:12 +1100</pubDate>
+      
+      <guid>http://www.patrickyates.me/projects/</guid>
+      <description>
+
+&lt;h3 id=&#34;turnt-ninja-substructio&#34;&gt;Turnt Ninja / Substructio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/opcon/turnt-ninja&#34;&gt;Turnt Ninja&lt;/a&gt; is cross-platform open-source, GPLv3 licensed, procedurally generated music/rhythm game inspired by the wonderful Super Hexagon.
+Turnt Ninja is written in C#, and uses the &lt;a href=&#34;https://github.com/opcon/substructio&#34;&gt;Substructio library&lt;/a&gt; for reusable code.&lt;/p&gt;
+
+&lt;h3 id=&#34;quickfont&#34;&gt;QuickFont&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/opcon/quickfont&#34;&gt;QuickFont&lt;/a&gt; is a cross-platform text rendering library for OpenTK.
+The original version developed by James Lohr is no longer maintained, and I maintain the newer version of the library.&lt;/p&gt;
+
+&lt;h3 id=&#34;gwen-net&#34;&gt;Gwen.NET&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/opcon/gwen-nolegacy-opentk-renderer&#34;&gt;Gwen.NET&lt;/a&gt; is a cross-platform GUI library for OpenTK.
+Originally developed by Garry Newman and others, I maintain a version that relies on QuickFont for text rendering and uses modern OpenGL functionality.&lt;/p&gt;
+
+&lt;h3 id=&#34;cync&#34;&gt;Cync&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/opcon/cync&#34;&gt;Cync&lt;/a&gt; is a music synchronization application designed to be used with portable media players that have multiple storage drives, such as internal storage + a microSD card.
+Cync will sync playlists across multiple storage drives, ensuring that the multiple storage drives are used efficiently.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.patrickyates.me/about/</link>
+      <pubDate>Thu, 08 Dec 2016 20:29:40 +1100</pubDate>
+      
+      <guid>http://www.patrickyates.me/about/</guid>
+      <description>&lt;p&gt;I am passionate about Science and Technology, and am currently studying Astrophysics at the University of Tasmania.
+I have recently completed my Bachelor of Science (Hons.) in Astrophysics, where I used numerical hydrodynamic simulations to study restarting radio jets from Active Galactic Nuclei (AGN).&lt;/p&gt;
+
+&lt;p&gt;In addition to my studies and research, I am an avid programmer and have developed or maintain a number of open-source libraries and programs.
+The most notable include QuickFont, a text renderer for OpenTK, and Turnt Ninja, a music/rhythm game inspired by Super Hexagon.&lt;/p&gt;
+
+&lt;p&gt;My academic resume is available here: &lt;a href=&#34;http://www.patrickyates.me/download/resume.pdf&#34;&gt;resume.pdf&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
