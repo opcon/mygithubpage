@@ -1,8 +1,11 @@
 language: go
 env: 
-    - GIT_DEPLOY_USERNAME=opcon
-    - GIT_DEPLOY_EMAIL="frozen.dinosaur@gmail.com"
-    - GIT_DEPLOY_REPO="git@github.com:opcon/mygithubpage.git"
+    global:
+        - GIT_DEPLOY_DIR=public
+        - GIT_DEPLOY_BRANCH=gh-pages
+        - GIT_DEPLOY_USERNAME=opcon
+        - GIT_DEPLOY_EMAIL="frozen.dinosaur@gmail.com"
+        - GIT_DEPLOY_REPO="git@github.com:opcon/mygithubpage.git"
 install: go get -v github.com/spf13/hugo
 script:
 - hugo
