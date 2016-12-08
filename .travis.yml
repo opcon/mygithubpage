@@ -16,3 +16,4 @@ before_install:
 - chmod 600 travis_deploy_temp
 - eval `ssh-agent -s`
 - ssh-add travis_deploy_temp
+- git submodule update --init --recursive
