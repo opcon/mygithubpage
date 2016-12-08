@@ -1,0 +1,18 @@
+language: go
+env: 
+    - GIT_DEPLOY_USERNAME=opcon
+    - GIT_DEPLOY_EMAIL="frozen.dinosaur@gmail.com"
+    - GIT_DEPLOY_REPO="git@github.com:opcon/mygithubpage.git"
+install: go get -v github.com/spf13/hugo
+script:
+- hugo
+- "./deploy.sh"
+notifications:
+  email:
+    on_failure: always
+before_install:
+- openssl aes-256-cbc -K $encrypted_c25fabcc9bea_key -iv $encrypted_c25fabcc9bea_iv
+  -in travis_deploy_temp.enc -out travis_deploy_temp -d
+- chmod 600 travis_deploy_temp
+- eval `ssh-agent -s`
+- ssh-add travis_deploy_temp
