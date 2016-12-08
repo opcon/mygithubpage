@@ -1,2 +1,5 @@
 # Hugo default output directory
 /public
+
+# Deploy ssh keys
+travis_deploy_temp*
