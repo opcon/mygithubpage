@@ -27,14 +27,14 @@ dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "Personal blog for Patrick Yates"
 email = "mail@patrickyates.me"
-faviconfile = "img/leaf.ico"
+faviconfile = "img/orange.png"
 gatracker = "XYZ"
 github = "//github.com/opcon"
 highlightjs = true
 # highlightjslanguages = ["go"] # additional languages not included in the "common" set
-initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
+initials = "py" # Displayed on single post page; DEPRECATED in v0.3.0.
 lang = "en"
-linkedin = "//linkedin.com/in/you"
+linkedin = "//linkedin.com/in/patrick-yates"
 twitter = "//twitter.com/opcon_gamedev"
 
 extracssfiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.
