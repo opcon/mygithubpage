@@ -20,8 +20,8 @@ blog = "blog/:slug/"
 
 [params]
 author = "Patrick Yates"
-gravatar = "7db078143f5c14085123d780ea92458e" # do not use in the same time as Avatar
-# avatar = "" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
+# gravatar = "7db078143f5c14085123d780ea92458e" # do not use in the same time as Avatar
+avatar = "img/me.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
 # cachebuster = false # FIXME: See issue #32.
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"

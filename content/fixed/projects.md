@@ -4,6 +4,17 @@ date = "2016-12-09T00:01:12+11:00"
 
 +++
 
+### Untitled for the moment
+
+As part of my Honours project, I developed several Python routines for analysing numerical simulation data obtained from the PLUTO simulation package. I am in the process of polishing my Python code so that I can release it as a standalone analysis library. Highlights will include:
+
+* Simplified loading of PLUTO data files
+* The projection of spherical data onto a Cartesian grid (2D)
+* The calculation of simulation energetics
+* The calculation of luminosity for each grid cell
+* The production of simulated surface brightness distributions
+* The production of movies from a simulation for various variables: density, pressure, luminosity etc.
+
 ### Turnt Ninja / Substructio
 
 [Turnt Ninja](https://github.com/opcon/turnt-ninja) is cross-platform open-source, GPLv3 licensed, procedurally generated music/rhythm game inspired by the wonderful Super Hexagon.

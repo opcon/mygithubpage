@@ -13,13 +13,13 @@
             {{ else if .Site.Params.avatar }}
               <a href="/"><img class="avatar" src="/{{ .Site.Params.avatar }}" /></a>
             {{ end }}
-            <a href="/"><div class="name">{{ .Site.Params.author }} - Under Construction</div></a>
+            <a href="/"><div class="name">{{ .Site.Params.author }}</div></a>
             <nav>
                 <ul>
+                    <a href="/about/"><li>About</li></a>
                     <a href="/research/"><li>Research</li></a>
                     <a href="/projects/"><li>Projects</li></a>
-                    <a href="/blog/"><li>Blog</li></a>
-                    <a href="/about/"><li>About</li></a>
+                    <!--> <a href="/blog/"><li>Blog</li></a> </!-->
                 </ul>
             </nav>
         </div>
