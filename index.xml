@@ -19,11 +19,32 @@
 My honours project involved developing a method for running numerical simulations of restarting radio jets from Active Galactic Nuclei (AGN).
 The results from these simulations were analysed to determine how recurrent jet activity affected both the energetics and dynamics of the radio jets.&lt;/p&gt;
 
-&lt;p&gt;A draft copy of my Honours thesis is available for download here: &lt;a href=&#34;http://www.patrickyates.me/download/honours-thesis.pdf&#34;&gt;honours-thesis.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A draft copy of my Honours thesis is available for download here: &lt;a href=&#34;http://www.patrickyates.me/download/honours-thesis.pdf&#34;&gt;honours-thesis&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;A poster that I presented at the &lt;strong&gt;conference name here&lt;/strong&gt; conference is available for download here: &lt;strong&gt;add link in here&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A poster that I presented at CAASTRO is available for download here:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    &lt;a href=&#34;http://www.patrickyates.me/download/restarting-jets.pdf&#34;&gt;
+        &lt;img src=&#34;http://www.patrickyates.me/img/poster.png&#34; width=&#34;300px&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
 
 &lt;p&gt;From the numerical simulations I was able to create several movies illustrating the restarting nature of the jet, a selection of which are shown below.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/9MRtKnmTOJ4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/32zNDlwLqtk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
 </description>
     </item>
     
@@ -34,6 +55,19 @@ The results from these simulations were analysed to determine how recurrent jet 
       
       <guid>http://www.patrickyates.me/projects/</guid>
       <description>
+
+&lt;h3 id=&#34;untitled-for-the-moment&#34;&gt;Untitled for the moment&lt;/h3&gt;
+
+&lt;p&gt;As part of my Honours project, I developed several Python routines for analysing numerical simulation data obtained from the PLUTO simulation package. I am in the process of polishing my Python code so that I can release it as a standalone analysis library. Highlights will include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Simplified loading of PLUTO data files&lt;/li&gt;
+&lt;li&gt;The projection of spherical data onto a Cartesian grid (2D)&lt;/li&gt;
+&lt;li&gt;The calculation of simulation energetics&lt;/li&gt;
+&lt;li&gt;The calculation of luminosity for each grid cell&lt;/li&gt;
+&lt;li&gt;The production of simulated surface brightness distributions&lt;/li&gt;
+&lt;li&gt;The production of movies from a simulation for various variables: density, pressure, luminosity etc.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&#34;turnt-ninja-substructio&#34;&gt;Turnt Ninja / Substructio&lt;/h3&gt;
 
@@ -63,13 +97,13 @@ Cync will sync playlists across multiple storage drives, ensuring that the multi
       <pubDate>Thu, 08 Dec 2016 20:29:40 +1100</pubDate>
       
       <guid>http://www.patrickyates.me/about/</guid>
-      <description>&lt;p&gt;I am passionate about Science and Technology, and am currently studying Astrophysics at the University of Tasmania.
+      <description>&lt;p&gt;I am Patrick Yates. I am passionate about Science and Technology, and am currently studying Astrophysics at the University of Tasmania.
 I have recently completed my Bachelor of Science (Hons.) in Astrophysics, where I used numerical hydrodynamic simulations to study restarting radio jets from Active Galactic Nuclei (AGN).&lt;/p&gt;
 
-&lt;p&gt;In addition to my studies and research, I am an avid programmer and have developed or maintain a number of open-source libraries and programs.
+&lt;p&gt;In addition to my studies and research, I am enjoy programming, and have developed and/or maintain a number of open-source libraries and programs.
 The most notable include QuickFont, a text renderer for OpenTK, and Turnt Ninja, a music/rhythm game inspired by Super Hexagon.&lt;/p&gt;
 
-&lt;p&gt;My academic resume is available here: &lt;a href=&#34;http://www.patrickyates.me/download/resume.pdf&#34;&gt;resume.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My academic resume is available here: &lt;a href=&#34;http://www.patrickyates.me/download/resume.pdf&#34;&gt;resume&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
