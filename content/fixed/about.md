@@ -11,4 +11,4 @@ I have recently completed my Bachelor of Science (Hons.) in Astrophysics, where 
 In addition to my studies and research, I enjoy programming, and have developed and/or maintain a number of open-source libraries and programs.
 The most notable include QuickFont, a text renderer for OpenTK, and Turnt Ninja, a music/rhythm game inspired by Super Hexagon.
 
-My academic resume is available here: [resume](/download/resume.pdf).
+My cv is available here: [cv](/download/cv-web.pdf).
